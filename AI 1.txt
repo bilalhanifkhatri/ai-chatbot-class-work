@@ -1,0 +1,8 @@
+1. first make repo on github.
+2. then clone it in your pc by using "git clone".
+3. then start coding.
+4. After coding, we will add files and folders in PC repo. By using "git add *".
+5. then commit all updates. by using 'git commit -m "My First Commit"'.
+6. then we will push on github repo. by using "git push origin main".
+
+********************* This all about today's class (27-07-2022) *******************************
